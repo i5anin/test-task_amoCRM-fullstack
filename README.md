@@ -1,5 +1,7 @@
 # Тестовое задание для JavaScript FullStack разработчика
 
+**ЦКП:** Учебная интеграция amoCRM с клиентом Vue и сервером NestJS по условиям fullstack-задания.
+
 ### Стек: VueJS + NestJS
 
 ---
